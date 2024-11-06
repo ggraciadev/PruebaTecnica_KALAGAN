@@ -9,7 +9,7 @@ Preguntas teóricas
        
   2. ¿Qué es pytest?
 
-     Es un framework que permite hacer tests unitarios de software escrito en Python.
+     Es un framework que permite hacer tests unitarios de software escritos en Python.
     
   3. ¿Qué son las excepciones en Python y cómo se manejan?
 
@@ -28,4 +28,4 @@ Preguntas teóricas
      
   5. ¿Qué diferencia hay entre una tupla y una lista en Python?
 
-     Las tuplas son immutables y las listas no. Es decir, los elementos de una tupla son constantes y no se pueden modificar en tiempo de ejecución.
+     Las tuplas son immutables y las listas no. Es decir, los elementos de una tupla son constantes y no se pueden modificar en tiempo de ejecución mientras que se pueden nodificar los valores de las listas en todo monento.
