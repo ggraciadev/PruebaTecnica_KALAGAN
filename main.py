@@ -37,7 +37,7 @@ mostrar_area(circ)
 mostrar_area(rect)
 
 #-------------- EJERCICIO 2 --------------
-
+# como no se especifica, asumo que no se quieren sumar valores repetidos
 def remove_duplicates(lista):
   return list(dict.fromkeys(lista))
 
@@ -53,8 +53,5 @@ def sumar_lista(list_a, list_b):
 print("-------------- EJERCICIO 2 --------------")
 lista_a = [0,3,1,1,1,1,1,4,5]
 lista_b = [5,2,1,6,5,1,1,1,1,2,5]
-
-lista_c = ['a','e','i','o','u']
-lista_d = ['a','b','c','d','e']
 
 print(sumar_lista(lista_a, lista_b))
